@@ -1,4 +1,4 @@
-# JestDemoProject
+# Jest Demo Project
 
 Git repository for a basic jest project containing some sample test.js files with some jest matchers examples.
 
