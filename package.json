@@ -1,0 +1,17 @@
+{
+  "name": "demoproject",
+  "version": "1.0.0",
+  "description": "jest demo test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Girish Nair",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "@types/jest": "^26.0.7"
+  }
+}
